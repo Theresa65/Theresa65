@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
+  <title id="title">BIM development, automation, and AI integration</title>
+  <desc id="desc">A navy banner with teal building outlines and connected nodes, representing building information and connected workflows.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1424"/>
+      <stop offset="1" stop-color="#152c3c"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#9ab8cf" stroke-opacity="0.065"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="320" rx="20" fill="url(#bg)"/>
+  <rect width="1280" height="320" rx="20" fill="url(#grid)"/>
+  <rect x="58" y="62" width="42" height="4" rx="2" fill="#54dfc5"/>
+  <text x="58" y="112" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="4" fill="#54dfc5">BUILDING INFORMATION. CONNECTED WORKFLOWS.</text>
+  <text x="56" y="180" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700" fill="#f1f6fa">BIM · Automation · AI</text>
+  <text x="58" y="222" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#a8becd">Development and integration for AEC</text>
+  <g fill="none" stroke="#54dfc5" stroke-width="2" stroke-linejoin="round">
+    <path d="M 866 233 V 115 L 960 66 L 1054 115 V 233 L 960 282 Z" stroke-opacity="0.8"/>
+    <path d="M 866 115 L 960 166 L 1054 115 M 960 166 V 282" stroke-opacity="0.8"/>
+    <path d="M 897 100 L 991 150 V 266 M 929 83 L 1023 132 V 249" stroke-opacity="0.22"/>
+    <path d="M 866 154 L 960 204 L 1054 154 M 866 194 L 960 244 L 1054 194" stroke-opacity="0.22"/>
+    <path d="M 1054 154 H 1130 V 104 H 1193 M 1054 194 H 1150 V 244 H 1200 M 1130 154 V 185 H 1193" stroke-opacity="0.55"/>
+  </g>
+  <g fill="#54dfc5">
+    <circle cx="960" cy="66" r="5"/><circle cx="866" cy="115" r="5"/>
+    <circle cx="960" cy="166" r="5"/><circle cx="1054" cy="115" r="5"/>
+    <circle cx="960" cy="282" r="5"/><circle cx="1193" cy="104" r="5"/>
+    <circle cx="1193" cy="185" r="5"/><circle cx="1200" cy="244" r="5"/>
+  </g>
+</svg>
